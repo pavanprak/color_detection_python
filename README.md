@@ -25,12 +25,12 @@ The Dataset is stored in a CSV File and can be read and arranged by python with 
 
 
 Modules or librarys used 
-1)OpenCV
+1) OpenCV
 
-2)pandas
+2) pandas
 
 3) Numpy
 
-4)Argparser
+4) Argparser
 
 
